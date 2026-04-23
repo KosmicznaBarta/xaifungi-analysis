@@ -1,0 +1,202 @@
+speaker_id,slide_id,question_id,problem_id,text
+MK,,,,"No to w takim razie zaczynamy. Witam panią serdecznie. W naszych badaniach sprawdzamy użyteczność i zrozumiałość modelu predykcyjnego, który stworzony został przez sztuczną inteligencję, czyli absolutnie nie ma badamy ani pani umiejętności, ani pani kompetencji. Chcemy tylko sprawdzić, czy to, co jest przygotowane i to, co zostało wygenerowane jako forma wizualizacji, infografiki jest dla pani absolutnie zrozumiałe."
+MK,,,,"To znaczy, że nie musi się pani spieszyć, jeśli pani będzie chciała mieć przerwę, absolutnie możemy tą przerwę mieć. Tu jest woda i kubek. Gdyby pani chciała przerwać w dowolnej chwili to badanie to też jest taka możliwość, czyli nic na siłę. Będziemy korzystać z narzędzia think aloud protocol, to jest takie narzędzie, które pozwala podczas nagrywania i podczas interakcji użytkownika z produktem, usługą, systemem rozpoznać, co tak naprawdę użytkownik myśli i czuje, dlatego, będę panią prosiła o głośne komentowanie wszystkiego, co pani widzi, z czym ma do czynienia, jak się pani czuje z tym, czy się pani to podoba, czy się nie podoba, co jest niewłaściwe, co jest poprawne. Wszystko to, co przychodzi pani do głowy, na myśl chcemy usłyszeć to pani. I żeby pokazać mniej więcej jak to wygląda mam tutaj takie przykładowe nagranie z badania."
+MK,,,,"Tu mamy też przykład czegoś, co pani będzie mogła zrobić podczas korzystania z prezentacji. Po pierwsze, tu będzie można notować wszystko, co pani będzie uważała za bardzo istotne. Poza tym to jest czarny slajd, który oznacza koniec, jeśli cokolwiek będzie niepoprawne, będzie pani uważała, że jest zbędne będzie można przesunąć to na koniec, bo ja poproszę panią na koniec właśnie o taką próbę uszeregowania tych materiałów w taki sposób, żeby dla pani były jak najbardziej użyteczne i poprawne, tak jak pani sądzi. Będzie można dodawać różne materiały, przesuwać je, przesuwać kolejność, więc tutaj tak to będzie wyglądało. Nie wiem, czy Pani chce popróbować, poprzesuwać, ale myślę, że miała pani do czynienia."
+MK,,,,"I teraz tak ja za chwilę otworzę właściwą prezentację i tutaj będą pytania do poszczególnych slajdów. Będę panią prosiła o próbę odpowiedzi na te wszystkie pytania, które tutaj zostały przygotowane właśnie do tych infografik do tych wizualizacji."
+MK,,,,"Tak jak wspominałam, absolutnie nie badamy pani kompetencji ani umiejętności, tylko chcemy zobaczyć właśnie czy jest to użyteczne. Badamy użyteczność XAI właśnie za pomocą think aloud protocol, żeby zobaczyć czy model jest w jakikolwiek sposób użyteczny zrozumiały dla użytkowników i teraz załóżmy sobie taką sytuację. Ja już za chwileczkę otworzę tą prezentację powiem co i jak."
+MK,,,,"Korzysta Pani z aplikacji, która ułatwia odróżnianie grzybów jadalnych od niejadalnych trujących, czyli wracamy do tej ankiety. Podpowiedzi tej aplikacji są wynikiem przetwarzania przez sztuczną inteligencję zbioru danych o grzybach i teraz w tej prezentacji zobaczy pani kilka infografik, które objaśniają sposób działania tego modelu sztucznej inteligencji i będę Panią prosiła właśnie o interpretację oceny użyteczności właśnie tych objaśnień. Będę prosiła o głośne mówienie, komentowanie, co pani widzi, co pani myśli, co pani czuje, czy się pani podoba czy nie podoba i będę wdzięczna za jak najbardziej szczere odpowiedzi, bo na tym nam bardzo, bardzo zależy także. Myślę, że możemy rozpocząć. Może się pani powolutku zapoznawać z tym materiałem i będę panią prosiła o odpowiedzi do tych pytań związanych z wizualizacjami. Od teraz zaczyna pani wszystko Błaszczak komentował."
+MK,__S00__,,,"Rozumiem, że pani teraz dla zapoznaje się z tymi materiałami. Czy to jest zrozumiałe?"
+MK_IT_06,,,,Właśnie to będzie chyba trochę nienaturalne. Tak jest z tym jest zrozumiały.
+MK_IT_06,__S1__,,,"Normalny wstęp w każdej pracy. Trochę o niczym, żeby nie było za skomplikowanie dla czytelnika."
+MK,,,,"Czyli mamy rzeczywistą bazę, na podstawie tej bazy powstał sztucznej inteligencji, który przekształcił ją w model predykcyjny."
+MK_IT_06,,,,"To jedynie to ciekawości, byłaby, że informacja skąd te grzyby są? Czy to jest zestaw grzybów, które występują tylko w Polsce? Czy jeszcze właśnie to jak to jest w Kalifornii, to czy właśnie w Ameryce?"
+MK_IT_06,__S4__,,,"Przechodzę już do pierwszego zestawu wykresów. Na początek to trochę za małe. Są to wykresy, trochę jest nieczytelnie, jeśli chodzi o wielkość czcionki."
+MK_IT_06,,,,"Tutaj wydaje mi się, że to są takie podstawowe wykresy. Tutaj nie ma raczej nic niezrozumiałego. Po prostu opis ile jakich grzybów rozmawiasz łowcach skład tych badanych."
+MK,,,,"Zatem, jak pani się już przyjrzy o tym wykresom, to będę prosiła właśnie o rozpoczęcie odpowiadania na te poszczególne pytania, które dotyczą tych wykresów. Można też komentować to, co się widzi."
+MK_IT_06,,,,"No to też kolejna rzecz, która mi się nie podoba to tutaj opis jednego wykresu wchodzi na następny."
+MK_IT_06,,,,"A estetyka, kolorystyka?"
+MK_IT_06,,,,"Tu był akurat fioletowy. Jest jednym z moich ulubionych kolorów. Także kompletnie mi nie przeszkadza. Mogło być minimalnie, jeśli chodzi o kontrast trochę za mało, ale no jednak to jest jeden kolor do wszystkiego, co też jakby nie przeszkadza mi, ponieważ to nie wymaga zaznaczenia różnymi kolorami. Więc ten kontrast może tutaj nie mieć takiego dużego znaczenia."
+MK_IT_06,,,,"No i może, że w niektórych tak jak kolor kapelusza, kolor blaszek, jednak tych kolorów tutaj jest dużo i po prostu przez wielkość czcionki jest minimalnie nieczytelnie."
+MK_IT_06,,__Q1__,,"Można przejść do pytań. Przedstaw, jak rozumiesz rozkład cech dotyczących sposobu przy rozstania blaszek."
+MK_IT_06,,,,To jest dobre pytanie. 
+MK_IT_06,,,,"No to w sumie mogę powiedzieć, że nie wszystkie rozumiem, bo przy takiej wizualizacji to może być ciężkie. Przyrośnięte, no to rozumiem, że łączą się z trzonem bezpośrednio, zbiegające może, że są troszeczkę rzadsze u góry, a gęstsze przy trzonie, gdzie się łączą z trzonem. Wykrojone, nie mam pojęcia szczerze mówiąc. Rurki, to tylko może o kształt chodzić, no nie są takie płaskie, tylko może trochę zaokrąglone. Wolne nie wiem. Faliste no to znowu, że po prostu czasem może się układają w takie falki i od spodu grzyba nie są prosto złączone od kapelusza do trzonu. No i brak no to brak."
+MK_IT_06,,__Q2__,,"Przedstaw, jak rozumiesz rozkład cech dotyczących typu siedliska."
+MK_IT_06,__S5__,,,"Tak faktycznie ok. Siedlisko. A to tutaj można by chyba rozdzielić, bo są tak ogólnie miejsca, lasy, wrzosowiska, ścieżki miejskie, a z 2 strony są takie bardzo już konkretne ściółki, trawa, liście."
+MK_IT_06,,,,"Nie wiem, może się trochę łączą, ale moim zdaniem można by to rozdzielić, bo to mimo wszystko trochę inne dane. Że jak w lasach, no to jakby leśne ścieżki, a miejskie ścieżki. No to jednak co innego."
+MK_IT_06,,,,"Nie wiem, zastanawiam się też, czy w przypadkach jaki jest mało danych jak kolor, hymenofor i kolor zarodników. Czy jest sens wrzucać ten brak danych, bo jednak zaciemnia dokładną ilość grzybów, znaczy tych, które występują w tych różnych kategoriach. Po prostu widać, że jest niewiele, ale nic więcej."
+MK_IT_06,,,,Chyba nie mam więcej komentarzy.
+MK_IT_06,,,,Może pani przejść do następnego pytania.
+MK_IT_06,__S6__,__Q3__,,"Ok, to dlaczego w zbiorze brakuje niektórych danych? Z czego wynika to twoim zdaniem?"
+MK_IT_06,,,,Czy te statystyki opisowe są w ogóle zrozumiałe? 
+MK_IT_06,,,,"Właśnie to było już poprzedniej ankiecie i to jest co, co prostu, masa liczb i żeby się w tym odnaleźć, to trzeba poświęcić trochę czasu, żeby zrozumieć, co się dzieje. Zwłaszcza że góra i dół są troszeczkę inaczej ustawione."
+MK_IT_06,,,,Miała pani do czynienia z takimi statystykami?
+MK_IT_06,,,,Chyba nie. Może dlatego się tak gubię w tym wszystkim.
+MK_IT_06,,,,"Dlaczego brakuje danych? No to byłoby z tych, których brakuje, no to, zgaduję, że liczba jest liczbą. Nie, nie wiem."
+MK_IT_06,,,,"No właśnie. Wydawało mi się na początku, że to będzie liczba po prostu występujących w grzybów z tą cechą, ale trochę ten nie ma sensu, ponieważ we wcześniejszych wykresach były grzyby, które zmieniałyby kolor lub puszczają mleczko w reakcji na uszkodzenia. A jest tutaj zero i 0%, chyba że są to liczby, które miały stosunkowo małe wpływ na nauczanie tego modelu. No, ale z kolei ten kolor i liczba zarodników mają wysoką liczbę procent."
+MK_IT_06,,,,"Wskazuje, że jednak mogłoby być to istotne dane także, że w sumie nie wiem. Ciężko mi powiedzieć to tutaj."
+MK_IT_06,,,,"Także w sumie chyba jedyne, co mogę powiedzieć to, że nie bardzo wiem, co się tu dzieje."
+MK,,,,"Zawsze będzie można wracać… aż coś się rozjaśni, …tak jak się coś tam rozjaśni."
+MK_IT_06,__S7__,__Q4__,,"Slajd numer 7 czy na podstawie wykresu jesteś w stanie ocenić cechy, które najczęściej pojawiają się po jego? Po prawej stronie jest sugerują silny wpływ na klasyfikację grzyba jako niejadalnego."
+MK_IT_06,,,,"No tak, no to jest sugerując się kolorami niebieski jako niski wpływ, czerwony wysoki, no to wysokość trzonu ewidentnie ma największy wpływ, potem trochę bordowego koloru jest średnica kapelusza. I szerokości trzonu też minimalnie, ale to jest już bliżej tej środka, więc jest szansa, że jest nieistotne."
+MK_IT_06,,__Q5__,,"Czy na podstawie wykresu jesteś w stanie określić te cechy, które dla różnych obserwacji mają różny wpływ na klasyfikację grzyba?"
+MK_IT_06,,,,Różnych obserwacji różnych wpływ.
+MK_IT_06,,,,No to chyba też to tyczy się tylko tych 3 pierwszych.
+MK,,,,A skąd się biorą te punkty z prawej i po lewej stronie?
+MK,,,,Czy jest to zrozumiałe dla pani.
+MK_IT_06,,,,"Znaczy, ja bym zrozumiała, że to jest jakaś statystyka tego, co jakby wyrzucił model. No bo one się różnie uczą za każdym razem, więc po prostu tu w części przypadków wyszło mu, że jest nieistotne, a w 2 części wyszło, że jest bardzo istotne. Tylko zastanawia mnie, czemu tak, czy to jest po prostu?"
+MK_IT_06,,,,"Skupiono się na przedstawieniu tych 3 pierwszych cech. Jest bardzo poglądowo. Nie wiem, czy mam większość po prostu jest przy tym zerze. Jakby nie miały znaczenia. No to jest zaraz granica między cechami."
+MK_IT_06,,,,"No ale jednak mimo wszystko, jak są umieszczone w tym zarządza też mają kolor niebieski bądź czerwony. Więc w teorii to zmiana koloru lub puszczanie mleczka jest czymś, co jest istotne, ponieważ jest na czerwono, ale jednak nie jest. Jest tylko na zerze, nie jest rozszerzona te wartości"
+MK,,,,A czy Legenda jest pomocna przy tym wykresie?
+MK_IT_06,,,,"OK, to nie doczytałam, że o lewa do prawa to są jadalne, niejadalne, o k."
+MK_IT_06,,,,"Co dalej mi nie wyjaśnię trochę tego zera takim razie jeżeli lewo to jest są niejadalne, prawo to są jadalne. Odwrotnie, lewo jadalne, w prawo niejadalne to dlaczego jakby na zerze jest. Grzyb [niezrozumiałe] dopóki nie zjemy to nie wiemy czy jest jadalny czy niejadalny, a jednak cechy są zaznaczone jako mniej lub bardziej istotny kolorem."
+MK_IT_06,__S8__,,,"O K to chyba, możemy przejść dalej. Wykres wodospad. To najpierw przeczytam legendę, jak widać może się przydać."
+MK,,,,Czy ten wykres jest zrozumiały?
+MK_IT_06,,,,"Właśnie się zastanawiam. Znaczy po prostu, nie wiem, próbuję przeanalizować po prostu co się dzieje."
+MK_IT_06,,,,"W lewo jest to wartości negatywne, czyli trujący. Jeżeli się w lewo rozszerza, ten wykres. A w prawą, to jeżeli to jest prawdopodobieństwo. Nie wartości pozytywne w prawo to jest wzrost prawdopodobieństwa bycia niejadalnym, a w lewo jadalnym. OK"
+MK_IT_06,,,,"Bo takie długie słowa to niestety zawsze trzeba przeczytać parę razy. Zwłaszcza jak mam problem, która to jest lewa, która to jest prawa."
+MK_IT_06,,,,"O K, czyli no tak, czyli to by się zgadzało z tym poprzednim, że im wyższy czy on tym większe prawdopodobieństwo niejadalnego grzyba"
+MK_IT_06,,,,W takim razie co z pytaniami?
+MK_IT_06,,__Q6__,,"Tak, czy na podstawie wykresu jesteś w stanie określić, które cechy mają najwyższy wpływ dodatni na predykcję modelu, który ujemny na redukcję. Czy jesteś w stanie wyjaśnić, dlaczego te cechy są istotne?"
+MK_IT_06,,,,"Dodatni wpływ. Czyli prawdopodobieństwo, że jest niejadalne. No to to tylko 3 są tak naprawdę oceniano największe,  no to jednak to wysokość trzonu, potem szerokość no i średnica. "
+MK_IT_06,,,,Niejasne jest dla mnie też trochę.
+MK_IT_06,,,,"Aha, dobra bo jeszcze."
+MK,,,,Co było niejasne? 
+MK_IT_06,,,,"Nie dalej jest chyba trochę niejasne, ale czym zorientowałam, dlaczego jest tak, a nie inaczej zakończenia tych strzałek. I kolory, bo jest plus minus, czyli czerwone będą sugerowały, że to jest, no i większy. im wyższy trzon im większa średnica kapelusza, tym większe prawdopodobieństwo wraz ze zmniejszaniem szerokości trzonu jest większe prawdopodobieństwo, że będzie jadalny."
+MK_IT_06,,,,"Tylko wydawało mi się, że będzie tak jak w poprzednim wykresie, że to jest jakby cała wartość zerowa i jeżeli będzie wpływało tylko na zmniejszenie. To, że będzie właśnie bardziej po tej, a on wchodzi trochę na ten obszar tego prawdopodobieństwa niejadalności."
+MK_IT_06,,,,"No tak, no to największe ujemnie to jest ta szerokość trzonu. Czy jestem w stanie wyjaśnić, dlaczego cechy są istotne. Dlatego model bezpośrednio nie mogę na mogę tylko sądzić po wielkości tych cyferek tutaj. Ale dlaczego są istotne, to powiedziałabym tylko, że tak wyszło po prostu z modelu.."
+MK_IT_06,,,,"I może faktycznie tak patrząc po prostu po grzybach, to większość jadalnych jest raczej niewielka."
+MK_IT_06,,__Q7__,,"Czy jest w stanie stwierdzić, dlaczego wykres zaczyna się od bazowej wartości i w jaki sposób wpływa na interpretację pozostałych elementów wykresu."
+MK_IT_06,,,,"No właśnie chyba nie do końca, bo to właśnie to jest to chyba co powiedziałam o tych strzałkach, że ta zmniejszająca prawdopodobieństwa bycia niejadalnym jest dalej jakby powyżej tego zera ustalonego tutaj."
+MK_IT_06,,__Q8__,,"To może następne, czy jesteś w stanie wyjaśnić, w jaki sposób ostateczna wartość na końcu przedstawionego wykresu oddziela predykcję modelu dla tej określonej obserwacji."
+MK_IT_06,,,,"Ostateczna wartość. To też właśnie trochę nic nie znaczy. Widzę, że wartość bazowa jest tam powiedzmy 9 2 i od tego są te plusy i minusy. No właśnie tylko nie do końca od tego są te plusy i minusy. Znaczy, to znaczy wyszło, a przynajmniej dla wysokości trzonu wyszło mniej niż ta bezowa 9 2. Ale model stwierdza, no właśnie, czy to jest to, co już wyszło z modelu?"
+MK_IT_06,,,,Czy tego oczekiwałam?
+MK_IT_06,,,,"To nie wiem, czego oczekiwałam, ale myślę, że to, co jakby wydaje mi się, że jest powiedziane, że to wysokość trzonu. Średnica kapelusza ma wpływ na bycie, jakby to sugeruje, że jest grzyb niejadalny. Myślę, że ma sens. "
+MK_IT_06,,,,"Szerokość trzonu powinna być, jakby nie powinna być, tylko że przy grzybach trujących będzie mniejsza, też wydaje mi się, że po prostu ma sens z tego, co obserwowałam w rzeczywistości grzybach jadalnych, niejadalnych."
+MK_IT_06,,__Q9__,,"Następne pytania, czy te cechy, które według wykresu najsilniej wpływają na predykcję, odpowiadają Twojej wiedzy o grzybach? To weszłam na kolejne pytanie, czy jest w stanie ocenić to, co podpowiada mu, że świetle własnej wiedzy i doświadczenia."
+MK_IT_06,,,,"No to zdecydowanie tak, ale wydawałoby mi się, że kolory mimo wszystko będą miały większe znaczenie, bo większość grzybów niejadalnych jednak ma jakieś takie powiedziałabym, w cudzysłowie nienaturalne kolory, jak czerwony, żółty, bordowy. Grzyby jadalne no to kapelusze mimo wszystko w większości mają brązowe albo biało brązowe, albo… "
+MK_IT_06,,,,"Kurki są pomarańczowe, ale to też jest taki, to nie jest taki intensywny odcień tych kurek. Mam wrażenie, może dawno kurki nie widziałam. No ale pieczarki tak samo są takie bure."
+MK_IT_06,,,,"Także spodziewałabym się w sumie chyba trochę więcej, że kolor będzie miał wpływ, nie tylko właśnie, tak naprawdę, czy tak jak w sumie są powiedziane, że mają jakiś wpływ na wysokość, szerokość i średnica. No i blaszki szczerze mówiąc, bo w sumie też jest sporo grzybów, które są jadalne, ale mają blaszki. No ale to tak jakby, to jest, no to dobra. No to to nie wpłynie na ten, ale takiemu doświadczonemu grzybiarzowi jak się powie, żeby zbierał gąbki, no to się nie zatruje. A jakby miał zgadywać po wysokości i szerokości trzonu, no to myślę, że mógłby natrafić na pewne problemy."
+MK_IT_06,__S9__,,,"Przejdę dalej. To jest Lime. No mamy te same dane, tylko ten wykres wydaje mi się, że jest to najbardziej czytelny z tych 3, bo jest właśnie bezpośrednio wartość zerowa i teraz czy posiadanie takiej cechy zwiększa lub zmniejsza i o ile szanse, że grzyb jest jadalny lub niejadalny."
+MK_IT_06,,__Q10__,,"To pierwsze pytanie, na podstawie wykresu wskaż te cechy, które zwiększają prawdopodobieństwa zakwalifikowanie grzyba jako niejadalny tego trującego."
+MK_IT_06,,,,"No to wszystkie te, które są na czerwone najbardziej szerokość stroną, zmienia kolor w reakcji na mleczko. To w sumie jest ciekawe, dlaczego tutaj jest wartość faktycznie widoczna, a na poprzednim wykresie było zera. Dobra nie? W poprzednim wydaje się akurat nie było kompletnie tego mleczka, ale jeszcze wcześniej było tylko zero, jakby nie miało dużego znaczenia. "
+MK_IT_06,,,,"Czyli te 5 górnych. O K ale to jest troszeczkę jeszcze inaczej. Szerokość trzonu poniżej 5 mm tak będzie, najbardziej wskazująca, że jest trujący, ale już szerokość pomiędzy 5 a 10 mm już dużo mniej wskazuje. I wysokość trzonu też jest, jeżeli jest powyżej 7 cm, to jest większa szansa, że jest trujące. A poniżej mniejsza szansa znaczy to już poniżej. To już chyba jest, że."
+MK_IT_06,,__Q11__,,"Czy można założyć na podstawie wykresu, że istnieją przypadki, kiedy cecha, która jest mało istotna i średnio istotna może stać się bardzo ważna. "
+MK_IT_06,,,,"No to te kolory trzonu tutaj ma niewielką wartość. No ale jak trafimy na taki, który ma kolor właśnie w tym w tym przedziale, że jest jednak trujący, dla człowieka, to już nie jest takie o tak niewielka prawdopodobieństwo, że będzie trujące jak będzie, no to cóż."
+MK_IT_06,,,,"No i  też chyba, znaczy właściwie w teorii większość tych cech jest tutaj prawdopodobieństwo 7% tak naprawdę jakieś 0,07, no to to jest 7%., czy nawet mniej. "
+MK_IT_06,,,,Moja matematykę może teraz leżeć. No to to jest dalej niedużo. Więc w teorii wszystkie te cechy są mało wskazujące na jadalność grzyba. 
+MK_IT_06,,__Q12__,,"Trzecie pytanie, czy wyniki przedstawione tym okresie są zgodne z twoją wiedzą o grzybach i doświadczeniem?"
+MK_IT_06,,,,"To po prostu czytam jeszcze raz te wszystkie i zastanawiam się czy któryś grzyb jadalny ma trzon brązowy, bo to jest wskazane, że to jest cecha wskazująca na bycie, że grzyb jest trujący."
+MK_IT_06,,,,"Znaczy no, ale chyba niekoniecznie. No borowiki czy go teraz wyjdzie, że nazwy nie pamiętam? No ale one mają taki biało brązowym, nie są w pełni brązowe, więc może faktycznie. "
+MK_IT_06,,,,"Kolor blaszek biały. No to też wskazuje, że są raczej jadalne, to też mi się trochę nie wydaje, jakby zgadza się, że kanie są na przykład. No ale muchomor chyba też ma białe blaszki?"
+MK_IT_06,,,,"Znaczy, może to jest prawda jak to jest faktycznie te 2%, że kolor trzonu biały to zwiększa prawdopodobieństwo 2%, że będzie jadalny ale to są zbyt małe procenty, żeby się faktycznie zgadzały, żebym powiedziała, o jeżeli będzie trzon szerszy niż 5 mm, no to jest jadalny, czy tam trujący, bo te 7% to jest zdecydowanie za mało."
+MK_IT_06,__S10__,,,To może nastepne.
+MK,,,,"Czy dla pani te objaśnienia, one mają znaczenie jakieś? "
+MK_IT_06,,,,"No myślę, że tak."
+MK,,,,To jest analiza kontrfaktyczna?
+MK_IT_06,,,,"Tak, ale nie wiedziałabym kompletnie, co znaczy wartość zmodyfikowana. Znaczy teraz pytanie, czy to dobrze interpretuję, że AI wskazuje jaką wartość powinna powinien mieć dany grzyb, żeby stał się jadalny w jego oczach. "
+MK_IT_06,,__Q13__,,"O K to możemy chyba przejść do pytań, czy patrząc na poniższe wizualizację jesteś w stanie stwierdzić jakie zmiany w cechy mają największy wpływ na zmianę klasyfikacji grzyba jadalnego i odwrotnie."
+MK_IT_06,,,,"No to tutaj są tylko 2 cechy, które są zmienione wysokość trzonu, 2 razy bo to są tak, dwa różne grzyby niejadalne, które chciał zmienić. Tylko wysokość trzonu było zmodyfikowana."
+MK_IT_06,,,,"Na jadalny i jadalny taką dużą, a wcześniej było napisane, że. O K, jeżeli trzon jest niski to jest niejadalny. W porządku, no to zgadza się z tym, co AI sądzi."
+MK_IT_06,,__Q14__,,"Czy zmiany przedstawione na tej wizualizacji mają sens w kontekście rzeczywistych własności grzybów i zgodnie z twoją wiedzę o grzybach.  No nie, no bo jednak zbieramy grzyby w różnych stadiach wzrostu. Więc no wielkość grzyba nie ma, to tak naprawdę nie ma dużego znaczenia, no bo możemy sobie zebrać podgrzybka, który jest dopiero co wyrośnięty, a takiego, który po prostu już jest taki stary, już po prostu zjedzone przez robaki. Ale jednak kapelusz jest gigantyczny, albo trzon jest wysoki."
+MK_IT_06,,,,"To znaczy nie. Myślę, że ciężko byłoby. Znaczy to też widać niby czy grzyb jest młody, czy jest już starszy. No, ale jednak. No też tak kwestia, że jeżeli im starszy grzyb tym jest bardziej zjedzony, więc też mniej go możemy wykorzystać potem, potrzebujemy go wykroić, oczyścić jest dużo się traci tego grzyba."
+MK_IT_06,,,,"Więc myślę, że to też niekoniecznie chyba jest znaczy na prawdopodobieństwo bycia jadalnym wpłynie, ale no taką… No nie jest to informacja, którą wzięłabym za pewnik."
+MK_IT_06,__S11__,,,To przechodzę do następnego slajdu. 
+MK,,,,To chyba są histogramy?
+MK_IT_06,,,,Nie jeszcze są informacje.
+MK,,,,Czy ten slajd informacyjny coś wyjaśnia?
+MK_IT_06,,,,"Znaczy mówi mi po prostu trochę o tym, jak działa AI."
+MK_IT_06,,,,"No ale pod względem danych no to mówi mi tyle, że mam rację w tym, żeby go nie słuchać, bo może się mylić. Może nie, że ma być pomocą, ale nie jest. Nie można go brać za pewnik."
+MK_IT_06,__S12__,,,"Kolejny slajd, dwunasty."
+MK_IT_06,,,,"To tutaj zdecydowanie przydałaby się jakieś objaśnienie. Znaczy, widzę, że to jest w pionie jest ilość tych grzybów ze względu na liczbę, która się wcześniej pojawiała i potem na dole będzie ilość grzybów, które pasują do no tylko tak szczerze. To do czego? Wysokość, średnica kapelusza. A no to może tak ok no to będzie średnica po prostu w centymetrach. Może nie wiadomo nie dobra wiadomość jest na górze w centymetrach."
+MK_IT_06,,,,"No ale no to te wykresy po lewej to w porządku jeszcze powiedziałbym, że są zrozumiałe, ale po prawej trochę mniej."
+MK_IT_06,,,,"To pewnie dlatego, że mam mniej do czynienia z takimi wykresami, ale to z tego, co ja sądzę, no to wykres pudełkowy. To będzie jednak ta większość, która się pojawia."
+MK_IT_06,,,,"Nie wiem, co oznaczają te bezpośrednie linie, które wychodzą do pudełka, potem ta linia ciemniej. Ta grubsza z kółeczkami pojedynczymi. No to to zgaduję, że to jest też. No występowanie i jak jest takie pojedyncze kuleczką, to znaczy, że nie ma ich tam za wiele."
+MK_IT_06,,,,"Ale tak chyba nie do końca mi się to zgadza, jakby było, to są wykresy pokazujące lewa, prawa ten sam zbiór danych, a nie wyglądają do końca tak samo jakby ten pozycja tych głównych pudełek, tak. Ale te pozostałe linie nie zgadzają mi się. Może też dlatego, że ten wykres po lewej właśnie. I ilość może jest za gęsta. To znaczy chodzi mi o to, że przy tych wartościach 30 40 gdzie po prawej jest przerwa, że tam nie ma praktycznie danych, no to tutaj to widać. A po prawej, no to jak się przyjrzę to faktycznie jest tam taka, jest dużo mniej tych grzybów. Znowu tutaj mamy przedział od zera do 250, no to ja nie wiem czy tam są 4 czy tam jest 10. A tutaj po prawej widać, że to jest zero."
+MK_IT_06,,__Q15__,,To jest slajd 12. Jak interpretujesz wykres pudełkowy dla wysokości trzonu i histogram dla szerokości trzonu.
+MK_IT_06,,,,"Wykres dla wysokości. No to w sumie już większość już powiedziałam, że najwięcej będzie grzybów o wysokości trzonu 5 do7 8 cm. No, potem już są w miarę równo rozłożone te wyniki. I to jest chyba tylko przegląd po prostu, taka analiza po prostu cech grzybów. To nie jest prawdopodobieństwo tego, czy są trujące, czy nie tylko właśnie przegląd."
+MK_IT_06,,,,A histogram dla szerokości trzonu.
+MK_IT_06,,,,"Dobra, to też by się jeszcze przydało, bo jednak trochę to odrzuciłam. No ale znaczy, wydaje mi się, że te jasno fioletowe wartości to są wartości faktyczne, ze zbioru danych. Ile faktycznie było tych grzybów posiadających daną cechę powiedzmy szerokość 10 cm milimetrów, a linia ciemniej ciemniejsza, fioletowa to jest jakieś wyrównanie, uśrednienie tych danych. Bo jednak są miejsca, gdzie to się nie do końca zgadza."
+MK_IT_06,,,,"I tutaj chyba jednak kolory by się przydało zmienić, bo jednak jasne, fioletowy, ciemny, fioletowy, chyba że taki był zamiar, to też tak może być, ale jeżeli miałabym spróbować coś wywnioskować na podstawie tej różnicy, no to jest trochę niewidoczne."
+MK_IT_06,__S13__,,,Przejdę dalej. Czytam teraz objaśnienie.
+MK_IT_06,,,,Ale generalnie ten slajd mi się kompletnie nie podoba. Objaśnienie na środku i objaśnienie tylko do prawej strony slajdu. 
+MK_IT_06,,,,"Po prostu wzrok mi, trochę skacze i nie do końca wiem od czego zacząć, na co patrzeć, żeby to skleić w jakąś całość. No, ale jest w takim razie, przykład cech które grzyb posiada, jest predykcja, że jadalny z takimi cechami no i objaśnienie tych kryteriów."
+MK_IT_06,,,,"Jeszcze doczytuję dokładnie te dwie wersje tych cech, bo nie do końca chyba zrozumiałam. "
+MK_IT_06,,,,"Nie wiem, czy do końca zrozumiałam. Nie wiem czy zrozumiem.  Znaczy te górne to po prostu są jakby, że już stwierdzone przez AI cechy, które powinny wystąpić, żeby był jadalny, a niżej jest to co wystąpiło w tym konkretnym przykładzie grzyba. Tak, chyba tak."
+MK_IT_06,,,,Możemy przejść do pytania. 
+MK_IT_06,,,,"Nie wiem czy to na oba slajdy mam patrzeć, czy to są pytania do tych obu slajdów?"
+MK_IT_06,,__Q16__,,"Zidentyfikuj te cechy, które są najważniejsze do zakwalifikowania grzyba jako jadalnego, lub niejadalnego dla obu przypadków. Dlaczego te cechy są istotne."
+MK_IT_06,,,,"No to, to nadal sądząc po tym, że to są cechy, które ten grzyb posiadał i na niebiesko zaznaczone te, które sugerują, że jest jadalne, no to to jest powierzchnie trzonu brak danych i podstawa też, więc  ciemniejszym kolorem niebieskim jest zaznaczony szerokość trzonu i powierzchnia kapelusza."
+MK_IT_06,,,,"Więc tak bym to interpretowała, że to są te 2 najważniejsze cechy, które stwierdziły. Tutaj trochę mniej ważne jest to, że kolor trzonu jest biały."
+MK_IT_06,,__Q17__,,"Czy jesteś w stanie zidentyfikować, jak zmienia się pewność modelu podczas oznaczania poszczególnych cech metody, które mają największy wpływ na zmianę pewności."
+MK_IT_06,,,,"Wydaje mi się, że nie. Czy mogę stwierdzić, że się zmieni jak szerokość grzyba będzie mniejsza od tej podanej, ale nie, nie jestem w stanie powiedzieć ile procent jakby spadnie, tak mi się wydaje."
+MK_IT_06,,,,"Tak, to możemy do tego następnego przejść?"
+MK_IT_06,,,,"O K, czyli cechy najważniejsze do zakwalifikowania grzyba trującego tym razem. No to wygląda, że głównie sposób wyrastania blaszek."
+MK_IT_06,,,,"Jeżeli są wykrojone, to już jest duże prawdopodobieństwo, że będzie niejadalny."
+MK_IT_06,,,,"O K to chyba jednak wychodzi na to, że nie do końca rozumiem na wykresie tego niebieskiego, bo wcześniej to chyba było, nie kolor trzonu były białe. Bo tutaj jest kolor kapelusza zielony i w tym zestawie danych jest oznaczony jako istotna dana, a jednak niżej jest on tylko delikatnie niebieski miał mniejsze znaczenie."
+MK_IT_06,,,,"No ale teraz odpowiedź na 2 pytanie, czyli jak zmienia się pewność modelu, to też wydaje mi się, że nie wyjaśnił mi nic ten 2 przykład."
+MK_IT_06,,,,"Nie wiem, czy to coś wymyślę. "
+MK,__S15__,,,~
+MK,__S88__,,,~
+MK,,,,"Dobra, to w takim razie był w całości. Będzie pani mogła skorzystać z wszystkich z wszystkich tych wykresów, które Pani widziała i tu mamy przykłady. I na podstawie tych wizualizacji materiałów, które są zawarte w prezentacji jakby Pani mogła przeanalizować poniższe przykłady opisujące cechy grzybów. Gdyby pani mogła zakwalifikować ten grzyb jako jadalny albo niejadalny. Można na tym pisać, można zaznaczać."
+MK_IT_06,,,__P1__,"No to poszłabym najpierw na pewno w słynną wysokość trzonu. Ten ma 18 cm. Wcześniej AI poprawiało, że dopiero od 23 cm jest grzyb jadalny, ale 18 to już jest blisko, więc powiedziałam, że to jest… Prawdopodobne kolor blaszek biały, wydaje mi się, że też był opisywany, tylko to było ten wykres chyba."
+MK_IT_06,,,,"Jakkolwiek kolor trzonu jest, kolor blaszek też białe. To były te 2% do prawdopodobieństwa, że jest jadalny."
+MK_IT_06,,,,"Sposób przyrastania blaszek do trzonu, no to nie jest ten, nie jest to wolny, co tutaj bezwzględnie, nie są wykrojone. A to tutaj dawało prawie 80%, 85% jest niejadalne, więc tutaj też jest szansa, że tak będzie jadalne."
+MK_IT_06,,,,"Jeszcze bym się przyjrzałem, to na pewno, szerokość trzonu, średnica kapelusza. Szerokość trzonu. Szerokość 18 mm. Dużo było."
+MK_IT_06,,,,"Szerokość trzonu, powyżej 16 daje 7% na bycie jadalnym na 18, więc to już powiedziałabym, że dość mocno sugeruje, że jest to grzyb jadalny. "
+MK_IT_06,,,,"O kształtach kapelusza chyba było niewiele. Czy z tych głównych, ale to jest tylko przegląd, to nie ma klasyfikacji jadalny niejadalny."
+MK_IT_06,,,,Jeszcze była gdzieś reakcja na nie zmienia koloru i brak mleczka.
+MK_IT_06,,,,"No to to by sugerowało, że jest niejadalny przez to, że nie zmienia koloru."
+MK_IT_06,,,,"O, obecność pierścienia. Nie wiem, czy to było jakieś zestawienie z pierścieniem. Ale to był."
+MK_IT_06,,,,"Czy mam analizować tylko dane, czy swoje doświadczenie też mogę wrzucić?"
+MK_IT_06,,,,"Po żaden grzyb jadalny nie posiada pierścienia. Dobra Kania posiada, ok, a tu mamy biały kolor i blaszki. To może być kania."
+MK_IT_06,,,,"Siedlisko lato, pora roku lato. Kanie chyba tez rośnie latem, to może być kania. Ale nie kolor kapelusza pomarańczowy."
+MK_IT_06,,,,"Dobrze, to tak, na podstawie danych AI to bym się pewnie sugerowała. Jeszcze tylko sprawdzę średnicę kapelusza, tylko nie pamiętam na którym wykresie."
+MK_IT_06,,,,"Ten po prawej trujący, po lewej jadalnej. Tylko to jest sama cecha, ale nie mówię mi, czy duży kapelusz czy mały kapelusz jest wpływa na to, że jest trujące jadalne."
+MK_IT_06,,,,To się chyba nie da.
+MK_IT_06,,,,"Boże, tutaj jesteś jeszcze jest średnicę kapelusza. Mamy średnicę 17 cm to jest duże i powyżej 8 centymetrów jest większe prawdopodobieństwo, że jest niejadalne.."
+MK_IT_06,,,,"No to powiedziałabym, że od takiej analizy powiedzmy trochę tych danych AI, które dostałam, to jest takie 50/50. Ale z wiedzą moją, no powiedziałabym, że jest raczej trujące, że ze względu na to, że blaszki to jedno, pierścień to drugie, kolor kapelusza pomarańczowy, tak jak mówiłam na początku te takie."
+MK_IT_06,,,,"To mogłaby być kurka, ale jest za duża na kurkę. Kurki są małe, a to jest jedyny grzyb z blaszkami o takim kolorze bardziej intensywnym, który wiem, że jest jadalny."
+MK_IT_06,,,,"Więc powiedziałabym, że jest trujący?"
+MK_IT_06,,,,"Myślę, że Jestem tego pewna. Znaczy, jestem pewna tego, żebym go nie zjadło."
+MK_IT_06,,,__P2__,"Średnica kapelusza jest mała. To by sugerowało, że jest jadalny. Kolor kapelusza brązowy. Kolor trzonu brązowy. To jest sugestia, że to jest grzyb niejadalny."
+MK_IT_06,,,,"Kolor kapelusza, nie ma. Ale jest brak blaszki, a nie, są blaszki. Kolor blaszek różowy. "
+MK_IT_06,,,,No to znowu nie mamy tych blaszek. Blaszek wykrojonych
+MK_IT_06,,,,krojonych.
+MK_IT_06,,,,"Kształtka kapelusza wypukły, co też mogłaby, tutaj jest że kształtki kapelusza płaski to do grzybów trujących, więc to też mogłoby sugerować, że jest jadalny."
+MK_IT_06,,,,Kolor kapelusza brązowy. Nie wiem czy była jakaś dana.
+MK_IT_06,,,,"Kolor blaszek różowy, nie chyba nigdzie nie było takiego koloru, ale to jest dziwny kolor."
+MK_IT_06,,,,"Średnica kapelusza jest poniżej 8 cm, więc jadalne. Wysokość trzonu jest poniżej 5, więc w teorii też sugerują, że jest jadalny."
+MK_IT_06,,,,"Szerokość trzonu 9. Szerokość trzonów by nam sugerowała, że jest niejadalny."
+MK_IT_06,,,,"To też bym powiedziała, że jest takie 50%. Znaczy, jest szansa, że brakuje mi paru danych, które tutaj występują do analizy. No nie, jeszcze jest, że nie zmienia koloru, no sugerują, że jest trujące, no to mimo wszystko chyba jest więcej tych cech, które wskazują na to, że jest trujące i sama bym też powiedziała, że jest trujący."
+MK_IT_06,,,,"Też bym powiedziała, że jest to pewna tej odpowiedzi."
+MK_IT_06,,,__P3__,"I ostatni, 11 cm, średnica kapelusza powyżej 8, to sugeruje, że jest niejadalny. Kształt kapelusza płaski to tam było zdecydowanie, że niejadalny, kolor kapelusza zielony, zmienia kolor lub puszcza mleczko to w teorii sugeruje, że jest jadalne."
+MK_IT_06,,,,"Sposób przyrastania blaszek, też nie jest. Kolor blaszek brązowy. Tylko, że białe blaszki. Wysokość trzonu poniżej 7, tylko trochę sugeruje, że jest jadalny. Szerokość trzonu 16 to wiemy, że niejadalny. Kolor trzonu brązowy. To sądzę, że jest niejadalny."
+MK_IT_06,,,,"No i znowu mam tak naprawdę z tego co potrafię przeanalizować 3 do 3 na jadalne, niejadalne."
+MK_IT_06,,,,"No ale znowu co ma obecność blaszek i kolor zielony kapelusza, ale właśnie to jest kształt kapelusza płaski. Co tutaj w tej analizie kotwicowej Jest to zaznaczone jako cecha, ale dobra, tylko nie jest aż tak istotny te wykrojone broszki, a kolor kapelusza zielony, jest dobrze. Niejadalny."
+MK_IT_06,,,,"To już wydaje mi się, że tutaj to analizy AI byłaby większa szansa na to, że jest niejadalne i tak też sądzę."
+MK_IT_06,,,,I też Jestem raczej pewna tej decyzji. 
+MK,__S99__,,,~
+MK,,,,"W takim razie poproszę Panią o przyjrzenie się prezentacji i zaproponowała jej kolejność, żeby była ona jak najbardziej dla pani użyteczna. Co potrzeba trzeba zmienić, jeśli czegoś brakuje oczywiście to też można dodać. Można napisać, można zwrócić uwagę na coś, włączyć do tej projektowanej układanki przez panią myśl. Jeśli coś jest nieprzydatne, to można przenieść za czarny slajd."
+MK_IT_06,,,,"To takie informacje wstępne myślę, że w porządku, ale to przyniosłabym jeszcze sposób, znaczy wytłumaczenie o co chodzi w modelu i jak on działa, wcześniej. Skąd pochodzi zbiór w porządku i jaki duży jest ten zbiór to myślę, że to jest fajna informacja."
+MK_IT_06,,,,"No to też widać i na początek bym dała tak jak jest takie ogólne dane. Tego, jak się formują te cechy, ale to był jeszcze jeden slajd taki to bym go dała gdzieś wyżej razem z tymi wszystkimi."
+MK,,,,"Jeśli coś jest do poprawy, to też będę panią prosiła o takie informacje."
+MK_IT_06,,,,"To legenda na pewno, tak jak mówiłam. Co jest ciekawe, bo tutaj tak nie przeszkadza ona, ale tutaj jest jednak pisemnie. To nie są 2 razy cyferki, tylko jest słowem i potem liczba to jest dość jasne.  Wydaje mi się, tak kontrast kolorów. Znaczy, jeśli wytłumaczeniem, to mogły być to być, ale tylko właśnie nie wiem czy no mogę go wrzucić poza czarny, bo jak dla mnie ten, ale tutaj, że jeżeli to dalibyśmy to objaśnienie, to. No bo te dane na pewno coś znaczą, tylko jak są przedstawione w ten sposób, to nie widzę tego znaczenia. Myślę, że te 2 slajdy są bardzo fajne, takie wprowadzające też. Tylko no układ tych slajdów musi być inne, bo nawet można rozdzielić je trochę."
+MK_IT_06,,,,"Zastanawiam się po prostu nad kolejnością, czy to ma sens, że one są tutaj. Czy nie lepiej było najpierw trochę przedstawić. Ogólnie faktycznie, jak te cechy się rozkładają, bo tutaj jednak są konkretne przykłady. Ale mimo wszystko te slajdy na pewno bym gdzieś umieściła, bo, żeby nie było tylko takich suchych danych, tu tyle procent, tyle procent. Tylko właśnie takie przedstawienie mamy taki tak jak tutaj było takie taka analiza mamy taki grzyb i są z takimi informacjami jak to są podane. Możemy zrobić albo co AI będzie próbował zrobić przy analizie. No ale w sumie to jeszcze można trochę bardziej objaśnić te, znaczenie tych. Znaczenie danych znaczenia. No to co było pytanie, że nie jestem w stanie stwierdzić, jak bardzo wpływają te konkretne cechy, że jakby powierzchnia kapelusza nie była gładka. No to o ile procent to nam zmienia cały tam, prawdopodobieństwo."
+MK_IT_06,,,,"Ten wykres jest w porządku, tylko właśnie to zero mnie najbardziej zastanawia. Co oznaczają? Więc może jakieś lepsze? No jest to 2 razy. Niby opis co to znaczy, ale nie do końca mnie wyjaśnia. Więc inny opis, po prostu trochę tego, co oznaczają dane w punkcie zero."
+MK_IT_06,,,,"Ten wykres wydaje mi się, że jest albo do wyrzucenia, albo do zmiany, ponieważ dlaczego 3 dane, znaczy niby tutaj też tylko 3 dane coś pokazują, ale no to tak wydaje mi się, że to może być prawie że to samo. Chociaż nie to, co powiedziałam wcześniej, że to jest pokazane, które cechy mają znaczenie, ale nie jest pokazane, jak bardzo coś w którą stronę. Ale z kolei nie wiem, czy ten to robi."
+MK_IT_06,,,,"Wpływ cech na przewidzenie jego toksyczności. No to wydaje mi się, że to są te same wykresy. Tylko tu jest więcej danych i wydaje mi się, że są minimalnie bardziej zrozumiałe mimo wszystko. Do wyrzucenia."
+MK_IT_06,,,,"Ten jest całkiem fajny, można by. To znaczy na nim chyba najbardziej bazowałam względem i tym na tych przykładach względem mojej analizy, bo to jednak jest faktycznie przedziały tych wartości. No właśnie jedyne co, no to jednak wydaje mi się, że jakby ich znaczenie miało wszystko jest niewielkie, ale to jest fajne pokazanie. No te przedziały mi się podobają najbardziej. Lime był najbardziej przydatny, tak mi się wydaje."
+MK_IT_06,,,,"No i ten. To jest, to jest ciekawe po prostu dla mnie najmniej zobaczenie co AI stwierdza, że to co można zmienić, żeby ten grzyb w jego oczach strach się jadalnych, ale tak do analizy czegoś, nie widzę wartości w tym. Znaczy, to jest bardziej jako ciekawostka, bym dodała nie jako coś, co bym przeanalizowała faktycznie. Więc tak na koniec bałem się jedynie czy tam przed wykresami czytała, ale chyba mogą zostać."
+MK_IT_06,,,,"Albo jak będą później, najpierw faktycznie będą."
+MK_IT_06,,,,"Właśnie nie, które dane mają znaczenie i potem na przykładzie."
+MK,,,,Czy coś jeszcze Pani chciałaby dodać? Czy powinniśmy jeszcze ewentualnie coś poprawić?
+MK_IT_06,,,,"Znaczy, wydaje mi się, że graficznie troszeczkę nie chodzi mi tutaj o wykresie, ale że faktycznie jakieś przykłady, tak jak tutaj jest ten grzyb opisany, to spróbować go jakoś czy zatrudnić grafikę czy też pójść w generację AI, ale wrzucić po prostu te dane, żeby były jakieś taki przykładowy, zielony grzyb, bo takich to takim wyglądzie to myślę, że dużo fajniej by komuś chce się nie zna pokazało. Chyba tyle."
+MK,,,,"Super to na sam koniec jeszcze taki krótki formularz do analizy kwestionariusza UX, gdyby pani mogła "
+MK_IT_06,,,,"To może być problem, bo mnie przypominam sobie ostatnie wizualizacje, jaki widziałam. Znaczy wizualnie, to znaczy faktycznie jakieś wykresiki, tak?"
+MK,,,,Coś z czym się pani to kojarzy?
+MK_IT_06,,,,"Właśnie z niczym konkretnym, naprawdę dawno nie miałam do czynienia z takimi wykresami."
+MK_IT_06,,,,"To chyba w podstawówce jak robiliśmy jakieś po prostu, ale to były po prostu tak, żeby się tak excelu pobawić, porobić kolorowe wykresy."
+MK_IT_06,,,,To jest na pewno trudniejsza z tamtych.
+MK_IT_06,,,,"Trudniejsze tak, łatwiejsze, łatwiejsze. Nie wiem, czy mam coś, co było."
+MK_IT_06,,,,"Czy te były łatwiejsze od czegoś, co widziałam? Nie wiem, myślę teraz."
+MK,,,,"O K to ja takim razie skończyliśmy, że bardzo pięknie dziękuję."

@@ -1,0 +1,192 @@
+speaker_id,slide_id,question_id,problem_id,text
+MK,,,," Rozpoczynamy nagrywanie. Zmniejszam tylko ekran Teamsów, żeby nam nic przeszkadzało i teraz tak może się pani przesiąść tutaj, na to miejsce. Rozpoczynamy nasze badanie, które jest kontynuacją ankiety, którą pani uzupełniała i będzie polegało na wykorzystaniu techniki think aloud protocol. Nie wiem, czy pani miała do czynienia z takim narzędziem, z taką metodą badania. Ja za chwileczkę pokażę na czym ono polega, tylko wcześniej powiem jak to będzie wyglądała cała procedura, bo celem naszego badania jest sprawdzenie użyteczności technik XAI i za pomocą właśnie tego protokołu think aloud protocol, sprawdzenie czy wizualizacja, które pani zobaczy na prezentacji, która jest przygotowana, są zrozumiałe dla pani. Absolutnie nie badamy kompetencji ani żadnych umiejętności. Chcemy tylko sprawdzić, czy model predykcyjny, który przygotowaliśmy na podstawie datasetu z bazy danych, jest w jakikolwiek sposób użyteczny dla pani. Rejestrujemy to wszystko w formie audio. Ja jeszcze pozwolę sobie włączyć nagrywanie tutaj na dyktafonie, na wszelki wypadek, bo to jest dobrze mieć różne możliwości zapisu danych. Mamy czas, to znaczy nie narzucam żadnego czasu, na spokojnie Pani będzie zapoznawać się z materiałami. Będzie Pani próbowała odpowiedzieć na przygotowane pytania. I ma pani możliwość wycofania się z tego badania w każdej chwili, jeśli pani będzie potrzebowała też przerwę, to proszę powiedzieć, zrobimy przerwę. Tu jest też woda, gdyby pani potrzebowała, dlatego, że będzie trzeba mówić."
+MK,,,," I teraz tak żeby pokazać, jak to mniej więcej będzie wyglądało, bo będzie Pani miała pytania do przygotowanej prezentacji, one będą cały czas dostępna tutaj, żeby pani się nie denerwowała i i żeby wszystko było pod ręką. To tak, to jest przykład think aloud protocol. Zanim jeszcze puszczę, to chcę powiedzieć kilka słów. Polega to na tym, że dostanie pani materiał. To będzie prezentacja w powerpoincie będą wizualizacje i będę panią prosiła o to, żeby pani komentowała i mówiła cały czas, co pani przychodzi do głowy na podstawie tego co pani widzi. Może pani komentować w dowolny sposób na głos. Chodzi też o sprawdzenie, jakie emocje temu towarzyszą. Co Pani myśli o estetyce? Wszystko to, co pani nasuwa się na myśl, jeśli chodzi o tą prezentację, która za chwileczkę będzie, będę prosiła o przekazanie nam swoich myśli i odczuć."
+MK,,,,"Oczywiście, w trakcie naszego badania będzie też pani odpowiadać na pytania, które będą towarzyszyły tej prezentacji w power poincie. Myślę, że z tym narzędziem nie ma żadnego problemu, ja pokażę przykładową prezentację. To jest tylko przykład takiej wizualizacji dla rozluźnienia są zwierzątka. W każdym razie będzie pani miała możliwość w przeglądania sobie tych materiałów w dowolny sposób. Może pani wracać, może pani iść do przodu, dodać notatki i tak dalej. Ten czarny slajd oznacza koniec, bo ja potem poproszę panią, żeby posegregować te poszczególne slajdy w odpowiedni sposób, który uważa Pani, że jest jak najbardziej właściwy."
+MK,,,,"Będzie można to poprzesuwać, co pani uzna za niewłaściwe, kompletnie nieprzydatne będzie można po prostu przesunąć za czarny slajd i w międzyczasie, jeśli pani będzie chciała, to można robić sobie dowolne tutaj notatki. Gdyby była taka potrzeba, to znaczy ja będę oczywiście bardzo wdzięczna za wszelkie notatki, wszelkie uwagi, będzie Pani mogła dodawać potem slajd, ale to powolutku ja będę też instruować co, będę naprowadzać, że tak powiem, na kolejne etapy naszego badania. Myślę, że możemy zacząć."
+MK,,,,"Trzy głębokie oddechy, nie ma się co stresować, bo to nie na tym polega. Bardzo proszę, to będą pytania dla pani i ja, potem poproszę o uzupełnienie dodatkowych zadań. Do całości będą takie pytania, na które będzie Pani mogła sobie, na które będzie Pani mogła odpowiedzieć. To dlatego, że tutaj właśnie sprawdzimy, czy to było w jakikolwiek sposób użyteczne, zatem oddaję pani pałeczkę i bardzo proszę o wszelkie uwagi komentarze do tego co pani widzi. Załóżmy sobie taką sytuację, że korzysta Pani z aplikacji, bo wracamy do tych grzybów. Pamięta pani były w ankiecie i to będzie aplikacja, która ułatwia odróżnienie grzybów jadalnych od niejadalnych albo trujących i podpowiedzi tej aplikacji są wynikiem przetwarzania przez sztuczną inteligencję zbioru danych o grzybach i teraz te wizualizacje, które pani zobaczy te infografiki objaśniają sposób działania modelu sztucznej inteligencji. I ja, wtedy właśnie jak pani będzie je przeglądać, to będę panią prosiła o zinterpretowanie, ocenę użyteczności tych objaśnień. Proszę mówić na głos, co się pani podoba, co się nie podoba, co tam jest, co pani widzi, co pani myśli, co pani chciałaby zmienić tutaj i absolutnie tak jak dla tak jak mówiłam, nie testujemy kompetencji umiejętności, tylko chcemy sprawdzić jak użyteczne są przygotowane wyjaśnienia i bardzo bym prosiła o tokiem najbardziej jeszcze odpowiedzi."
+MK,__S00__,,,"Tu są pytania na spokojnie, na końcu będzie tylko zaznaczenie takiego krótkiego kwestionariusza, ale to wszystko przed nami, na spokojnie. Bardzo proszę o zapoznanie się z tymi materiałami, można czytać na głos, można poprzeglądać sobie, a zatem może pani przejść już do wizualizacji. Do infografik mam przygotowane pytania, na które będę prosiła panią o odpowiedź, każdy slajd można komentować, np. wygląd strony."
+MK_SSH_05,__S1__,,,To czytam pierwszy slajd.
+MK,,,, Można na głos można komentować też od razu.
+MK_SSH_05,,,,"Na pewno może strona sama w sobie jest bardzo prosta, jest czytelna, ale brakuje jakiejś wizualizacji i takiego oddzielenia może na początku celu badania."
+MK_SSH_05,,,,"Ale wszystko jest czytelnie opisane, co będzie się dziać."
+MK_SSH_05,__S2__,,,Drugi slajd.
+MK_SSH_05,,,,To tak samo właśnie ta prosta strona.
+MK_SSH_05,,,,"Link do zbioru akurat się nie chce otworzyć, ale to przez…"
+MK,,,, Powinien przez Control.
+MK_SSH_05,,,,I tu wszystko jest.
+MK_SSH_05,__S3__,,,"Kolejny slajd. Też, jeżeli chodzi o właśnie tą wizualizację, to podobnie, ale ja jestem po ASP, więc to przez to."
+MK_SSH_05,,,,"Ale wszystko jest czytelne. Jeżeli właśnie chodzi też o informacje, tak samo jak wcześniej, przechodzę do wykresu."
+MK_SSH_05,__S4__,,,Od tego slajdu zaczynają się poszczególne pytania. Także można sobie najpierw zobaczyć przed odpowiedzią.
+MK_SSH_05,,,,"I tu będę też komentować. Nie widzę, dobrze?"
+MK_SSH_05,,,,"Więc to może jeszcze jeżeli chodzi o tą stronę graficzną, to tutaj jest wszystko wyraźne. Dobrze dobrane kolory, jeżeli chodzi o. Nie są to jakieś krzykliwe, więc dobrze się czyta."
+MK_SSH_05,,__Q1__,,"Pytania do prezentacji, przedstaw jak rozumiesz rozkład cech dotyczących sposobu przy rozstania blaszek."
+MK_SSH_05,,,,I znalazłam przyrośnięcie.
+MK_SSH_05,,,,Tutaj jest.
+MK_SSH_05,,,,"Widzę że, bardziej taka informacja dla osób, które bardzo dobrze się znają na grzybach już, ale jest tutaj wyraźnie określone, że od, mamy od zera do 12000 skale, i przyrośnięcie. Tutaj w tym przypadku jest największa, ta statystyka, później najmniejsza, zbiegające, wykrojone, rurki, faliste wolne, ale jest też duży brak danych. "
+MK_SSH_05,,,,"Tutaj widzę, który nie do końca. Nie wiem, na czym może polegać, ale."
+MK_SSH_05,,,,"Ale dobrze, że jest tak właśnie też innym kolorem określone, że bardziej jest widoczny."
+MK_SSH_05,,__Q2__,,"Przedstaw, jak rozumiesz rozkład cech dotyczących typu siedliska."
+MK_SSH_05,,,,"Oj, nie mogę znaleźć, aha, bo to kolejny tak."
+MK,,,,"Tak, tak."
+MK_SSH_05,__S5__,,,"Siedlisko? To widzę, że największe siedlisko właśnie znajduje się w lasach. Tutaj jest wszystko też czytelne."
+MK_SSH_05,,,,"A najmniejsze w obszarach miejskich i tak jak są odpady, ścieżki. I ponadto w lasach wynosi 40000. Tutaj z tego wykresu tylko właśnie 40000. Zastanawiam się, czy to jest liczba na jaką powierzchnię,  prawda, metrów, kwadratowych, czy…To w sumie tak jak wcześniej."
+MK_SSH_05,__S6__,__Q3__,,"Szóste. Dlaczego w zbiorze brakują, brakuje niektórych danych. Z czego to wynika twoim zdaniem."
+MK_SSH_05,,,,"To znaczy właśnie więcej jest może brakujących tych danych? Tak jak patrzę na stronie, ale z czego może wynikać kolumna? Klasa, typ pierścienia, sposób przyrastania. "
+MK_SSH_05,,,,"Możliwe, że wynika z braku jakieś dokładnej analizy w tym systemie, sztucznej inteligencji, ponieważ też zawiera ogólną wiedzę."
+MK_SSH_05,,,,"Informacje, które tam są zawarte, to są raczej takie właśnie ogólnie opisowe i może w niektórych miejscach brakować. I też nie wiem, że do któregoś roku tylko ma przechowywane informacje, więc może to też mieć wpływ właśnie."
+MK_SSH_05,__S7__,,,"Kolejny slajd rój pszczół. I tutaj też mogę zwrócić uwagę, że wcześniej była inna czcionka na początku, a teraz jest inna. Raczej jakoś tak, ta druga jest lepsza, bardziej czytelna. "
+MK_SSH_05,,,,"I tak, to teraz slajdzie siódmym, może mniej, nie jest ta czerń, taka nasycona i się lepiej też czyta tą lekką szarość. "
+MK_SSH_05,,__Q4__,,"Tak, ale odpowiadając, czy na podstawie wykresu jesteś w stanie określić cechy, które najczęściej pojawiają się po jego prawej stronie i sugerują silny wpływ na klasyfikację grzyba jako nie jadalnego, trującego."
+MK_SSH_05,,,,"Mm. Tak tutaj mamy na wykresie jest pod względem kolorów zaznaczone, niebieskie jest niższy, czerwone jest wyższy, wyższa wartość."
+MK_SSH_05,,,,"I zazwyczaj, przykładowo wysokość trzonu. Widzę, że ma dużą duże znaczenie, że im wyższy, tym, tym raczej będzie, tym raczej będzie trujący."
+MK_SSH_05,,,,"Natomiast im. W przypadku tylko tych trzech, też zauważyłam pierwszych danych głównie takie bardzo rozwinięte informacje."
+MK_SSH_05,,,,"Czyli wysokość trzonu średnica kapelusza, szerokość trzonu, a w przypadku tych niżej już ciężej zrozumieć. Znaczy tu jest tylko do tej wartości. Zero kropka zero i się zastanawiam czy w tych innych wartościach też coś się zmienia. Czy to jest takie przykładowe. "
+MK_SSH_05,,__Q5__,,"Drugie pytanie, czy na podstawie wykresu jesteś w stanie określić te cechy, które dla różnych obserwacji mają różny wpływ na klasyfikację grzyba jako jadalnego, trującego. Skąd biorą się niektóre punkty po prawej, a inne po lewej."
+MK_SSH_05,,,,"A to trochę już powiedziałam, ale też wydaje mi się, że właśnie jeżeli chodzi na przykład tą wysokość trzonu, dajmy na to, to im tutaj na dole, jak jest ten wykres z tymi wartościami od – dwa zero do zera jest raczej niska ta wartość, a później wzrasta. Także tutaj jest wszystko czytelne, właśnie jeżeli chodzi o te pierwsze trzy punkty. "
+MK,,,,"A czy przydatna jest legenda na przykład, czy to w ogóle coś pomaga?"
+MK_SSH_05,,,,"Tak, tak, ale też właściwie nawet bez tego można by się obejść."
+MK_SSH_05,,,,Ale na pewno nie jest łatwy. Mimo wszystko to. No to na pewno.
+MK,,,,Dlaczego pan tak sądzi?
+MK_SSH_05,,,,"Jakoś tak jak przykłady były z tych slajdów numer, takie slajd 5 i 4 były bardziej czytelne. Łatwiej Było zrozumieć, tutaj te wartości. Sama zastanawiam się, czy tym, że i tak rozumiem tą tabelkę akurat."
+MK_SSH_05,,,,"Ale raczej tak tutaj to to większa ta średnica kapelusza mniejsza, także ale ciężej tak ."
+MK_SSH_05,__S8__,,,I kolejny slajd wodospad.
+MK_SSH_05,,__Q6__,,"Czy na podstawie wykresu jesteś w stanie określić, które cechy mają największy wpływ dodatni na  predykcję modelu a, które największy ujemny na definitywną predykcje modelu. Czy jesteś w stanie wyjaśnić, dlaczego te cechy są istotne?"
+MK_SSH_05,,,,Przeczytam tutaj. Tak to też legenda jest konieczna.
+MK_SSH_05,,,,"Wartość bazowa jest na górze po prawej stronie, czytelnie zaznaczona, żywy kolor."
+MK_SSH_05,,,,I F(x) też.
+MK_SSH_05,,,,Jeszcze wrócę do pytania pierwszego.
+MK,,,,"Można się odnieść do samego wykresu, co przedstawia, jak go pani rozumie, czy on jest czytelny dla pani w jakiś sposób. "
+MK_SSH_05,,,,"Tak, to na pewno tutaj jest tabelka czytelnie zaznaczona bardziej niż ta z wcześniejszego slajdu numer 7 i wysokość trzonu tutaj jest to największą wartością predykcji modelu dla tego konkretnego owocnika.  "
+MK_SSH_05,,,,"Tu na kolor niebieski to dobrze zaznaczona właśnie ta wartość ujemna. Jest to bardziej tak widoczne, że przez to. Jeżeli chodzi o właśnie o tą szerokość trzonu i dodatnia, wartość znowu średnica kapelusza na czerwono, to jak najbardziej dobrze się czyta."
+MK_SSH_05,,,,"Reszta jest po zerze i zastanawiam się właśnie czy tu zostały pominięte informacje o tym, czy to są takie dane stricte?"
+MK_SSH_05,,__Q7__,,"Czy jesteś w stanie stwierdzić, dlaczego wykres zaczyna się od pasowej wartości i w jaki sposób ta wartość bywa na interpretacje pozostałych elementów wykresów?"
+MK_SSH_05,,,,"Myślę, że jestem, że tutaj jest wszystko, Aha, teraz to widzę. Rozpisane, jeżeli chodzi o te wartości na dole i jest to t utaj w tym przypadku f(x) i ef(x) teraz widoczne właśnie są te wartości."
+MK_SSH_05,,,,"I teraz moje pytanie, a propos wcześniejszego, tej bazy z zerami, to już się rozjaśniło że tu od 9,2 chodzi."
+MK_SSH_05,,,,"Tak, ale trzeba więcej czasu na pewno spędzić nad zauważaniem tego."
+MK_SSH_05,,__Q8__,,"Czy jesteś w stanie wyjaśnić, w jaki sposób ostateczna wartość na końcu przedstawionego wykresu odzwierciedla predykcję modelu dla tej określonej konkretnej obserwacji. Czy tego oczekiwałeś?"
+MK_SSH_05,,,,Tak jak najbardziej wyjaśnia.
+MK_SSH_05,,,,Tylko właśnie chwilkę dłużej trzeba się nad tym skupić.
+MK_SSH_05,,__Q9__,,"I czwarte pytania, czy te cechy, które według wykresu najsilniej wpływają na predykcje, odpowiadają twoje wiedzy o grzybach? Czy jesteś w stanie ocenić to, co podpowiada model, a i wsie wiatr własnej wiedzy i doświadczenia?"
+MK_SSH_05,,,,"Tak ja na pewno słyszałam właśnie o tej przede wszystkim w wysokości trzonu. Więc tak, jak najbardziej tutaj jest też to według mojej ogólnej wiedzy, rozpisane i czytelne."
+MK_SSH_05,__S9__,__Q10__,,"9 slajd. Na podstawie wykresów wykaż wskaż te cechy, które zwiększają prawdopodobieństwo zaklasyfikowania grzyba jako niejadalnego, trującego. To patrzę tutaj na tabelkę jest bardziej czytelna, na pewno niż reszta."
+MK_SSH_05,,,,"Już jeszcze do końca dojdę. Tak tutaj mamy trujący im bardziej wartości i tą w prawą stronę na czerwono, a jadalne na niebiesko są zaznaczone i to w przeciwną."
+MK_SSH_05,,,,"Prawdopodobieństwo, że ta szerokość trzonu, zmiana koloru, te wszystkie pierwsze 6 wartości, kolor trzonu brązowy, mają wpływ na to, że grzyb jest trujący. Natomiast jeżeli chodzi o te ostatnie punkty od zmienia kolor lub puszcza mleczko w reakcję na uszkodzenie do szerokość trzonu w milimetrów. No tam do 16 kropka 56. Aha brakuje trochę 3 16 56 to jest centymetry czy milimetry, ta wartość jakby stricte."
+MK_SSH_05,,,,"To to są jadalne, więc tutaj i tu jest też większe prawdopodobieństwo klasy, więc no gdzieś jest to wiadomo ogólne, ale raczej ten schemat jak najbardziej jest zauważalny."
+MK_SSH_05,,__Q11__,,"Czy można założyć na podstawie wykresu, że istnieją przypadki, kiedy cecha, która jest mało istotna lub średnio istotna, może stać się bardzo ważna? Tak, na pewno właśnie w tych minimalnych przypadkach, kiedy kol."
+MK_SSH_05,,,,"Patrzę, na przykład jest brązowy w tym punkcie o grzybach trujących jest to mała wartość, prawda? Ale jednak robi dużą różnicę później w kwestii klasyfikacji, więc albo kiedy zmienia kolor lub puszcza mleczko w reakcji na uszkodzenie, też jest to zakwalifikowane do grzybów jadalnych."
+MK_SSH_05,,,,"Ale właśnie ta wartość jest mała, więc też jest to. Łatwe do przeoczenia , na pewno."
+MK_SSH_05,,__Q12__,,Czy wyniki przedstawione na tym wykresie są zgodne z twoją wiedzą o grzybach i doświadczeniem?
+MK_SSH_05,,,,"Tak, tak to jeżeli chodzi o tą szerokość i tą kwestię zmiany koloru, to ogólnie tak, ale na pewno jest bardziej jeszcze bardziej szeroka i dokładna."
+MK_SSH_05,__S10__,,,"Slajd 10. To może najpierw jeszcze o slajdzie. Tutaj są 2 czcionki, więc pod względem graficznym mam problem, ale i ten kolor czerwony, gdyby był bardziej bordo, byłby lepiej. Lepiej by się czytało, odbierało."
+MK_SSH_05,,,,"I brakuje jakiegoś właśnie takiego, nawet takiego delikatnego właśnie koloru kremowego, właśnie, żeby przełamać trochę tą biel."
+MK_SSH_05,,__Q13__,,"Tak i, ale jest, jest tutaj też takie dokładne dane podane po lewej stronie i jeżeli chodzi o to, czy coś jest tutaj właśnie te najważniejsze elementy są podkreślone na czerwono jadalny, prawda że to przedstawienie dotyczy właśnie tego, więc nawet po prostu robiąc takie główne rzut oka, wiemy o co chodzi."
+MK_SSH_05,__S11__,,,"Tutaj przeczytam kolejny, 11 slajd."
+MK,,,,Można komentować.
+MK_SSH_05,,,,"Nie słyszałam o klasyfikatorze takim. Ale od razu ta wysoka dokładność tutaj, która jest zaznaczona, dobrze działa na odbiorcę, że tutaj są podane takie dane faktycznie bazowe to danych."
+MK_SSH_05,,,,"Ale, acha, nie posiada wiedzy poza zakresem tych danych, więc to tak, że faktycznie. Ograniczenia to jest plus, że jest dokładne właśnie i no właśnie jednak czasami ekspert ma większą wiedzę, prawda, niż tak jak tutaj."
+MK_SSH_05,,,,"I tutaj standardowa metoda była. Jest to do nauki modelu zbiór treningowy i druga do testowania. To ciekawe, że jest od razu z tym testowaniem jak najbardziej."
+MK_SSH_05,__S12__,__Q15__,,Tak to tutaj slajd 12.
+MK_SSH_05,,,,"To tutaj tak na pierwszy rzut oka też są te wykresy po lewej stronie jak najbardziej czytelne, ten typ wykresu po prawej te 3 po prawej pierwszy raz właśnie z takim wykresem się mierzę."
+MK,,,,A te wykresy Pani widziała już wcześniej?
+MK_SSH_05,,,,"Tak, tak, ale ten jest nowością jak najbardziej. No i właśnie jeżeli chodzi o ocenę, histogram dla średnicy kapelusza w centymetrach, to może brakuje legendy. "
+MK_SSH_05,,,,"Ale tak to jest poza tym czytelne tutaj choćby to, że przynajmniej centymetry milimetr tylko właśnie co do czego i tak dalej to ja to nie to można by znaczy. Można się domyślić, że nie 2000, ale może to być. I ten wykres pudełkowy."
+MK_SSH_05,,,,"To niestety nie, nie jestem w stanie odczytać. Mogę się domyślić, że chodzi tutaj o pewne wartości tam, gdzie jest fioletowy element i tam, gdzie jest to zaciemnienie, ale niestety tutaj, w tym przypadku nie, nie dam rady odczytać."
+MK_SSH_05,__S13__,__Q16__,,"Zinterpretuj te cechy, które są najważniejsze do zakwalifikowania Grzyba jako jadalnego albo nielegalnego, trującego dla obu przypadków i odpowiedz. Dlaczego cechy są istotne?"
+MK_SSH_05,,,,"Tak to tutaj może pod względem też graficznym ciężej jest mi się skupić ze względu na te niebieskie, te po prawej stronie. Jest to czytelne, ale trochę chaotyczne, może gdyby było bardziej uporządkowane, by było lepiej, ale wiem, że niebieski kolor po prostu odpowiada temu, że grzyb jest jadalny?"
+MK_SSH_05,,,,"I tutaj powierzchnia trzonu, brak danych są wypisane,  szerokość trzonu do 10 kropka 17. Tylko właśnie czy centymetrów, czyli milimetrów, może tutaj trochę brakuje."
+MK_SSH_05,,,,"A nie, jest, przeczytałam to przecież jest, ale może gdyby było milimetrów po 10, kropka 17 było o lepiej właśnie."
+MK_SSH_05,,,,"Wysokość tronu w centymetrach. Teraz też to widzę, ale właśnie gdyby ta wartość była centymetrów po 7, 74 to by było lepiej, tak, ale tak to właśnie tutaj wszystko jest dobrze skonstruowane. I tutaj są właśnie ta procenty na koniec. A, i przewiduje klasy jadalny w 97,2 procentach przypadków. Do tego przykładu te wszystkie są spełnione albo tutaj kolejne, że kiedy nie. "
+MK_SSH_05,,__Q17__,,"Najwyraźniej ta pewność się zmienia, prawda, im mamy mniej tych w tym 2 punkcie, odpowiadając na pytanie im mamy więcej niewiadomych, właśnie średnica kapelusza, prawda. Znacznie niewiadomych, tylko nie zakreślonych."
+MK_SSH_05,,,,I to było też do 14. Tak.
+MK_SSH_05,__S14__,,,"Tak tutaj tak samo tylko że jeżeli chodzi o trujący, może gdyby było od razu na pomarańczowo sposób, przez chociaż przez to, że trujący to warto. Tutaj słowo jest też zakreślone na pomarańczowo, więc bardziej się rzuca w oczy, że to jest coś innego niż po prostu zmiana koloru, bo tak autor estetycznie chciał, więc może w sumie to jest plus. "
+MK_SSH_05,,,,"Ale tak, i jeżeli chodzi o procenty, tak samo jest wszystko czytelne."
+MK_SSH_05,,,,"Mm tutaj, jeżeli chodzi o zmianę, w tym przypadku co jest, co jest odznaczone. Tak, dobra, no to jeśli miałam tak bardzo szybko idzie."
+MK,__S15__,,,~
+MK,__S88__,,,~
+MK,,,,"To są pytania do całości. Może pani skorzystać z tych wszystkich wizualizacji, które pan do tej pory widziała. Gdyby pani mogła przeanalizować właśnie te 3 przykłady, które opisują cechy wybranych grzybów i na podstawie właśnie tych wizualizacji, które Pani widziała, gdyby pani mogła zaznaczyć, czy to jest grzyb jadalny, czy to jest grzyb trujący. Przykłady, zostały wzięte właśnie ze analizowanego zbioru danych i chcemy zobaczyć, czy ta wizualizacja jakikolwiek sposób będą przydatne do oceny klasyfikacji grzyba. "
+MK_SSH_05,,,,Mogę zacząć od którego chce i czy mogę zaznaczać długopisem?  
+MK,,,,"Można zaznaczać spokojnie, także można robić notatki i tutaj zaznaczać, patrząc na całość, czy jest jadalny czy nie. I też po proszę o komentowanie na to, do czego pani wraca, z czego pani będzie korzystać?"
+MK_SSH_05,,,,"To wracam od razu. W sumie to tych 2 ostatnich slajdów 13 i 14, ponieważ najlepiej mi się z niego odczytywało."
+MK_SSH_05,,,,"Też właśnie jeżeli chodzi o to, czy trujące czy jadalne jest ten Grzyb tutaj, jak są przykłady to to to też będzie prościej przeskoczyć, żeby porównać."
+MK_SSH_05,,,,"Zacznę od trującego czy to, jest taki grzyb."
+MK_SSH_05,,,,Tutaj mamy. Może będę od dołu uzupełniać. Trujące grzyby występują głównie. 
+MK_SSH_05,,,,"Głównie przyrost kapelusza, kolor zielony"
+MK_SSH_05,,,,Bo tylko na tych 3 ostatnich trzeba się skupiać?
+MK,,,,"Nie, na wszystkich slajdach."
+MK_SSH_05,,,__P1__,"A to nie, najlepszy był pierwszy i drugi w takim razie. Pierwszy, drugi, w sumie, no w sumie tutaj też, jeżeli chodzi o dokładniejsze dane, to slajd 9."
+MK_SSH_05,,,,"Od którego zacząć faktycznie. Może od tego pierwszego. Czy coś jest przydatne na tych slajdach, właśnie teraz jak patrzę."
+MK_SSH_05,,,,"Teraz dokładniej wchodzę w to czy, że nie widać, czy ta wypukłość sprawia, że jest na przykład, kształt kapelusza jest wypukły, to raczej jest trujący bardziej, czy jadalny muszę się wrócić."
+MK_SSH_05,,,,"Ta wartość tutaj jest mniej przedstawiona na 4 i 5 teraz widzę. Że jest wykres, tylko tak się zastanawiam teraz do czego stricte, prawda. Więc przejdę jednak do analiz numer 9."
+MK_SSH_05,,,,"Tak i tutaj jest średnica kapelusza. Jest bardziej przydatny, tak w tym przypadku, jeżeli chodzi o szerokość i trzonu, to tutaj są te dokładne informacje. A propos jadalności, tutaj na przykład znalazłam szerokość trzonu. Szukam informacji, mam wartość na mojej kartce 18 27."
+MK_SSH_05,,,,"I tutaj znalazłam wartość na wykresie, że w przypadku mniejszych wartości niż 16 56, to szerokość trzonu raczej odpowiada wartości grzybów jadalnych."
+MK_SSH_05,,,,"Czyli tutaj jest, czyli tutaj będzie większy, czyli na nie."
+MK_SSH_05,,,,"Jeżeli chodzi o kolor, jeszcze przejrzę, średnica kapelusza. Jeszcze wrócę do tych zakresów z ciekawości, tak histogramy na slajdzie 12. Średnica kapelusza od razu w praktyce sprawdzę jak. Nie mam akurat tego."
+MK_SSH_05,,,,"Wysokość trzonu jest, ja mam przypadek 18, kropka jeden. I raczej tutaj wartość spada."
+MK_SSH_05,,,,Tylko właśnie czy to jest? Wartość spadająca. Że później jest trujący Grzyb czy jadalny to.
+MK_SSH_05,,,,"Do tego ciężko, ciężko to wywnioskować."
+MK_SSH_05,,,,"Jest opisana, ale. Tak to jednak te przedostatnie będą slajd 13 14 najlepiej określające."
+MK_SSH_05,,,,"Powierzchnia trzonu brak danych, to jest akurat szerokość grzyba w milimetrach. Jadalny powiedzmy mniejszy niż 10 tu mam 16, więc 18, więc raczej. Tak to tylko gorzej. Powierzchnia kapelusza gładka, a ja mam."
+MK_SSH_05,,,,"Pora roku, teraz zobaczę. Tutaj w trującym jest akurat płaski podany."
+MK_SSH_05,,,,"Ale przykład w jadalnych też wypukły, więc można to zapisać póki co jako plus, że jadalny tu jest minus na niejadalny średnica kapelusza."
+MK_SSH_05,,,,"Kolor kapelusza nie jest pomarańczowy, to jest biały. Tu jest przykładowo zielony w trującym. O pomarańczowym akurat tu nie ma. Zobaczę w innych danych. "
+MK_SSH_05,,,,"Raczej pomarańczowy przypadku, tutaj 4 slajdu jest wartością pośrodku, pomiędzy, więc można zdefiniować na tak i nie."
+MK_SSH_05,,,,"Ale jeżeli chodzi o zmianę koloru mleczka, pamiętam, że na slajdzie numer 7 był też dokładny wykres. Zmiana koloru mleczka w reakcji na uszkodzenie nie zmienia koloru no i nie zmienia koloru. I raczej jest to wartość. Muszę sobie przypomnieć według legendy. Przy dużej średnicy kapelusza raczej nisko, czyli małe znaczenie. Tu jest małe znaczenie, czyli dam neutralne zero."
+MK_SSH_05,,,,"Wysokość trzonu tutaj w sumie pokazuje, że ma duże znaczenie, więc od 18 kropka jeden. No jest to dosyć wysoki przypadek, więc można dać, że możliwe, że jest to niejadalny."
+MK_SSH_05,,,,"Patrzę na inne dane. Przerastanie blaszek do trzonu. Tutaj jest u mnie wolne. Ale w przypadku tutaj tego mam. Sprawdzę w innych. Też gorzej zdefiniować. Jeszcze wrócę do tych ostatnich, tak jak był siedlisko i pora roku."
+MK_SSH_05,,,,"Tutaj mamy jesień, lato najwyższą wartość. W moim przypadku jest lato i siedlisko lasy. Tak to też jest najwyższa wartość lasy tutaj raczej jest. Wydaje mi się, że wartość jako jadalne najwyższa."
+MK_SSH_05,,,,"Chociaż z doświadczenia bardziej patrzę, że krzywy na przykład jeżeli chodzi o te miejsca, odpady i miejskie, prawda, to raczej są tam te trujące grzyby. Więc bardziej trochę teraz tak z interpretacji przy okazji mojej wiedzy, to bardziej lepiej się odczytuje ten wykres w tych przypadkach, ale no właśnie brakuje tych wiadomości tylko o tym czy to raczej jest. Wartość wyższa to trującego czy nie trzeba, ale tutaj tam na plus, że ja celny, więc tak analizując tutaj miały."
+MK_SSH_05,,,,"Pierścień. Pierścień jest. Więc to jest nam minus, że może być, że może być niejadalny, kształt pierścienia bruzdowaty."
+MK_SSH_05,,,,"O tu mam mało wartość, więc chyba też na niejadalny, większość tutaj jak zaznaczam jest, raczej idzie w stronę, że niejadalny będzie dobrze. Tutaj zobaczę. Powierzchnia trzonu łuskowata. A tu jest wierzchnia kapelusza u mnie jest błyszcząca, tutaj jest taka średnia ta wartość."
+MK_SSH_05,,,,"Ciężko określić cały czas na tej podstawie, jest taki pół na pół ten grzyb powiedziałabym. To jeszcze mało na plus. Raczej skłaniam się, że to jest jednak trujący Grzyb, tak analizując głównie te wykresy."
+MK,,,,No to w takim razie poproszę jeszcze o zaznaczenie na ile jest pani pewna odpowiedzi.
+MK_SSH_05,,,,"No to tak, średnio pewne."
+MK_SSH_05,,,__P2__,Jest kolejny. To też najpierw zacznę od slajdu numer 7 do interpretacji.
+MK_SSH_05,,,,"Tak, średnica kapelusza. Ja mam 5 56. Raczej jest mniejsza, jeszcze sprawdzę na innych, o ten ostatni. Szerokość trzonu, to kolejny slajd."
+MK_SSH_05,,,,"Tutaj średnica kapelusza jest mniejsza niż 8 54. Tak jak tutaj w przykładu grzyba  jadalnego na slajdzie 13, więc może to dać jako plus. Kształt kapelusza jest wypukły, tak jak tutaj, kolor kapelusza brązowy. Pamiętam, że raczej kolor brązowy był na plus."
+MK_SSH_05,,,,"Powierzchnia łuskowaty ta tutaj jest akurat gładka. Tu jest płaski, wrócę do slajdu numer 4. Łuskowata to raczej jest tak na wyższych wartościach, więc można też dać jako plus i o tutaj było ważne. Nie zmienia koloru lub brak mleczka. To wrócę do slajdu numer 7 jeszcze."
+MK_SSH_05,,,,"Nie zmienia było na wysoką wartość. Jeszcze sprawdzę sobie tutaj. Zmienia kolor. A tu jest też akurat jako plus, więc."
+MK_SSH_05,,,,"Nie zmienia koloru, ale tutaj też może być jako minus, bo przy trującym jest nie zmienia koloru. Jest to plus i plus można dać. Wolne, sposób przyrastania, gęsty. I sprawdźmy lato było, pamiętam też ich lasy na plus."
+MK_SSH_05,,,,"Tu jest brak danych, więc ciężko ocenić, tu też brak, tu też brak danych."
+MK_SSH_05,,,,Aha to jest.
+MK_SSH_05,,,,Też czeka danych.
+MK_SSH_05,,,,Sprawdzę jeszcze szerokość trzonu dla pewności. Albo gęstość blaszek no w przypadku trujących jest gęsta.
+MK_SSH_05,,,,"Ale i jadalnych tutaj w na przykładzie tych ostatnich slajdów, ale zwrócę to jeszcze sobie na gęstość blaszek. Raczej gęstość jest na plus, więc większość tak jak patrzę jest, że jadalnych, więc zaznaczę jadalny i raczej jestem pewna tutaj."
+MK_SSH_05,,,__P3__,Przykład 3 i tak już tutaj wracam. Kolejny Grzyb ma średnicy kapelusza 11 68 u mnie. Więc jest to wartość na pewno większa niż zazwyczaj.
+MK_SSH_05,,,,"Jeszcze tutaj taki jest podany grzyb jadalny i niejadalny w tym przypadku. Tak, szerokość trzonu jest większa na podstawie slajdu 13."
+MK_SSH_05,,,,"Kształt kapelusza jest płaski. To tak jak w trującym. Powierzchnia kapelusza jest lepka. Wrócę do kolejnego slajdu, czwartego. Powierzchnia lepka ma dużą wartość."
+MK_SSH_05,,,,"Gdyby to było o tym, jak ta wartość się przekłada, bo i tak to zostawię."
+MK_SSH_05,,,,"Wrócę jeszcze do tego ostatniego na razie i później wrócę do tamtych, tak tutaj mamy pora roku jesień, znowu z wrzosowiska."
+MK_SSH_05,,,,To później do tego wrócę.
+MK_SSH_05,,,,"Zarodników brak danych, więc tam zero. Pierścienia, brak. Kolor blaszek brązowy, więc tak jak tutaj w trującym grzybie."
+MK_SSH_05,,,,"Wysokość trzonu, ja mam 6 58 tutaj przykład jest 7 74. I to to jest wysokość trzonu."
+MK_SSH_05,,,,"A tutaj nie piszę akurat, ale średnicy kapelusza z pracy, bo jest większa niż 5 80 ale to już mam zaznacza."
+MK_SSH_05,,,,Tak wrócę do tego slajd numer 4 i 5 teraz.
+MK_SSH_05,,,,"Kolor blaszek. Kapelusz, kolor kapelusza. Kolor kapelusza, ja mam zielony."
+MK_SSH_05,,,,"Tu jest to w takiej średniej ocenie. Więc tam tak, na razie zero po prostu."
+MK_SSH_05,,,,Zmienia kolor lub puszcza mleczko.
+MK_SSH_05,,,,Tam wrócę jeszcze do tego ostatniego i przedostatniego slajdu.
+MK_SSH_05,,,,"Nie zmienia koloru, to było na trujące. Raczej."
+MK_SSH_05,,,,Jeszcze wrócę to tutaj.
+MK_SSH_05,,,,"Nie zmienia kolory, zmienia kolor."
+MK_SSH_05,,,,"Proszę. Tutaj są gęste, więc wysoko jest to wartość znowu."
+MK_SSH_05,,,,"Raczej idzie to w stronę trującego grzyba, więc tak jak tutaj analizuje, no to jest brak danych, szerokość trzonu, że zobaczą szerokość wysokość."
+MK_SSH_05,,,,"Albo kolor, może nawet kolor trzonu, brązowy. Może to jest też wysoka wartość."
+MK_SSH_05,,,,"To znaczy, obecność, pora roku."
+MK_SSH_05,,,,"Raczej Jestem przekonana, że jest to trujący grzyb, tak analizując wszystko. Ale raczej tutaj tam średnio pewna też."
+MK,__S99__,,,~
+MK,,,,"Jeśli chodzi o tę część, to bardzo dziękuję. Teraz poproszę jeszcze, jakby pani przyglądała się tej prezentacji. W jakiej kolejności to powinno być, żeby było jak najbardziej użyteczne dla pani? Jak powinniśmy to poukładać, żeby to było jak najbardziej czytelne."
+MK_SSH_05,,,,"Wszystko jest czytelne, jeżeli chodzi o kolejność. Tak najbardziej tak szukając danych, korzystałam właśnie z tego, co jest na początku, czyli te ogólne tutaj wykresy, które są na fioletowo 4 i 5 slajd, ale też właściwie najczęściej korzystałam z tego 4 i 5 i 13 i 14, więc może gdyby były koło siebie byłoby lepiej łatwiej przechodzić, prawda? Tak więc."
+MK,,,,"Może pani jakiś slajd dorobić i zwrócić uwagę, co powinniśmy dodać tutaj? Można wyrzucić coś, co jest nieprzydatne poza ten czarny slajd."
+MK_SSH_05,,,,"Muszę zrobić tak, przeszło. Właściwie to tutaj są wiadomości takie dla mnie, prawda. Jako, ale, ale nie było to jakoś bardzo potrzebne stricte podczas tylko badania, sprawdzania właśnie wartości to całkowicie nie, nie było, więc. To tutaj przerzucę na to patrzyłam tylko połowę, bym wyrzuciła jak ty nie mam jakby możliwości chyba. Bez tego. Tak, tak. Histogram bym zostawiła, wyrzuciłabym te pudełkowe wykresy. Ale to jest bardziej moje odczucie powinien spotkałam się z tego typu wcześniej."
+MK_SSH_05,,,,"To może tam takie z po prostu, tutaj tak to napisałam właśnie wykres pudełkowy nie był potrzebny, ciężki do zinterpretowania."
+MK_SSH_05,,,,"Tak i to może od tych danych też przerzucę po prostu. A i tutaj też ten slajd. Analiza i to też przerzucę. Raczej nie był potrzebny głównie tutaj. To co zostawiłam to było istotne to, co chciałam, by było. "
+MK,,,,Czy chciałaby pani coś dodać jeszcze.
+MK_SSH_05,,,,"Właśnie to, co mówiłam na początku, żeby więcej było może tych apropos centymetry, czyli metry i czy to chodzi o trujących rzeczy jadalne? A tak to wszystko jest w porządku, ok."
+MK,,,,"Czy chce Pani jeszcze coś dodać do tych wizualizacji, do prezentacji?"
+MK_SSH_05,,,,"Właśnie jedynie brakuje tak stricte tematycznie może jakiegoś zdjęcia grzyba jak jakaś taka grafika, prawda, że taki las, żeby się bardziej wczuć. Ale to tak nawet na początku, bo przy wykresach to już psa dużo się działo."
+MK,,,,"To w takim razie jeszcze poproszę o to jest dotyczy całości. To jest taki bardzo skrócony kwestionariusz user experience i chciałabym, żeby pani zaznaczyła i dopisała to, co pani przychodzi do głowy w jeśli chodzi o te elementy Kano. Jakie są, które są łatwiejsze, które są trudniejsze i te wizualizacje jakby pani oceniła?"
+MK_SSH_05,,,,"U góry…bo te wizualizacje wszystkie tutaj, tak?"
+MK_SSH_05,,,,"Zastanawiam się, bo tu jest porównanie, prawda? Łatwiejsza trudniejsze od takich codziennych."
+MK_SSH_05,,,,Są łatwiejsze od wypisanych danych jak w przypadku statystyki
+MK_SSH_05,,,,"A trudniejsze. Więc wizualizacje, które dzisiaj widziałam wyraźnie są łatwiejsze w zrozumieniu od wypisanych danych, jak w przypadku statystyki opisowej, ale trudniejsze od wykresów kołowych z rozróżnieniem kolorystycznych."
+MK,,,,Bardzo dziękuję.
