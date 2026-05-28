@@ -48,7 +48,8 @@ def normalize_whitespace(text: str) -> str:
 
 
 def normalize_cell(value) -> str | None:
-    """Normalizuje pojedynczą komórkę z CSV do postaci tekstowej lub None."""
+    """Normalizuje pojedynczą komórkę z CSV do postaci tekstowej lub None ->
+    string (jeśli coś sensownego) albo None (jeśli to pustka)"""
     if pd.isna(value):
         return None
 
@@ -190,7 +191,7 @@ def optionally_remove_special_markers(
 
 
 def drop_rows_with_empty_text(df: pd.DataFrame) -> pd.DataFrame:
-    """Usuwa wiersze bez sensownej treści tekstowej."""
+    """Usuwa wiersze bez sensownej treści tekstowej(zamienia wartości NaN na pusty string,usuwa spacje z początku i końca tekstu)"""
     out = df.loc[df["text"].fillna("").str.strip() != ""].copy()
     return out
 
